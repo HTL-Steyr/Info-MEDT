@@ -46,8 +46,8 @@ Damit Websiten auf allen Geräten schön zu betrachten sind haben wir die CSS-Bi
 
 ## Javascript - Frameworks
 Frameworks sind zuvor programmierte Programme, welche man verwenden kann um seine eigenen Applikationen darauf aufzubauen.
-### Angular
-
+Beispiele:
+* Angular
 * jQuery
 
 ---
