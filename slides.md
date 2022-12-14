@@ -60,23 +60,27 @@ schas
 ## Bild- / Videobearbeitung
 
 * Fotografie
+* Farbenlehre
 * Adobe Creative Cloud
 
 ---
 
-## Fotographie
+## Fotografie
+
+Fotos mit einer 4k Kamera, die danach mit der Adobe Creative Cloud nachbearbeitet werden.
 
 ---
 
 ## Photoshop
 
+Bildbearbeitung der selbstgemachten Fotos.
+Kennenlernen der wichtigsten Tools von Photoshop.
+
 ---
 
 ## Lightroom
 
----
-
-## Indesign
+???
 
 --
 
