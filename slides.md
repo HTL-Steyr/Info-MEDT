@@ -30,7 +30,7 @@
 ## HTML & CSS
 
 Mit **HTML** kann die **Struktur** einer Website vorgegeben werden und mit **CSS** kann man anschließend die **Darstellung** der Website anpassen.
-Damit Websiten auf allen Geräten schön zu betrachten sind haben wir die CSS-Bibliothek `Bootstrap` kennengelernt.
+Damit Websiten auf allen Geräten schön zu betrachten sind haben wir die CSS-Bibliothek **Bootstrap** kennengelernt.
 
 ![HTML CSS Example](img/html_css.png)
 ![HTML CSS Example 2](img/html_css1.png)
@@ -46,7 +46,7 @@ Damit Websiten auf allen Geräten schön zu betrachten sind haben wir die CSS-Bi
 ---
 
 ## Javascript - Frameworks
-Frameworks sind zuvor programmierte Programme, welche man verwenden kann um seine eigenen Applikationen darauf aufzubauen.
+Frameworks sind zuvor programmierte Programme, welche man verwenden kann um seine eigenen Applikationen darauf aufzubauen. \
 Beispiele, welche behandelt werden:
 * Angular
 * jQuery
@@ -55,8 +55,8 @@ Beispiele, welche behandelt werden:
 
 ## PHP
 
-**PHP** ist eine **Programmiersprache** die sowohl im **Front-** als auch im **Backend** Anwendung findet.
-Beispielsweise werden anwendungsspezifische Programmierschnittstellen in Verbindung mit Datenbanken entworfen und ausprogrammiert.
+**PHP** ist eine **Programmiersprache** die sowohl im **Front-** als auch im **Backend** Anwendung findet. \
+Beispielsweise werden anwendungsspezifische **Programmierschnittstellen** in Verbindung mit **Datenbanken** entworfen und ausprogrammiert.
 
 ![PHP Logo](img/php-logo.png)
 
