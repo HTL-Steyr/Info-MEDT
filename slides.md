@@ -42,11 +42,12 @@ Damit Websiten auf allen Geräten schön zu betrachten sind haben wir die CSS-Bi
 **Javascript** ist eine **Programmiersprache** welche meist dazu verwendet wird um **Funktionalität/Logik** zu einer Website hinzuzufügen. 
 
 ![Javascript Logo](img/JavaScript_Logo.png)
+
 ---
 
 ## Javascript - Frameworks
 Frameworks sind zuvor programmierte Programme, welche man verwenden kann um seine eigenen Applikationen darauf aufzubauen.
-Beispiele:
+Beispiele, welche behandelt werden:
 * Angular
 * jQuery
 
@@ -54,7 +55,11 @@ Beispiele:
 
 ## PHP
 
-schas
+**PHP** ist eine **Programmiersprache** die sowohl im **Front-** als auch im **Backend** Anwendung findet.
+Beispielsweise werden anwendungsspezifische Programmierschnittstellen in Verbindung mit Datenbanken entworfen und ausprogrammiert.
+
+![PHP Logo](img/php-logo.png)
+
 --
 
 ## Bild- / Videobearbeitung
@@ -67,20 +72,14 @@ schas
 
 ## Fotografie
 
-Fotos mit einer 4k Kamera, die danach mit der Adobe Creative Cloud nachbearbeitet werden.
+Fotos mit einer 4k Kamera, die danach mit den Tools der Adobe Creative Cloud nachbearbeitet werden.
 
 ---
 
 ## Photoshop
 
 Bildbearbeitung der selbstgemachten Fotos.
-Kennenlernen der wichtigsten Tools von Photoshop.
-
----
-
-## Lightroom
-
-???
+Kennenlernen der wichtigsten Funktionalitäten von Photoshop.
 
 --
 
