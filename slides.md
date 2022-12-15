@@ -4,9 +4,13 @@
 
 # Stundentafel
 
-| 1. JG | 2. JG | 3. JG |
+| 1.    | 2.    | 3.    |
 |-------|-------|-------|
-| 2h    | 2h    | 2h    |
+| 2EH   | 2EH   | 2EH   |
+
+--
+
+Allgemeine Folie
 
 --
 
@@ -30,7 +34,7 @@
 ## HTML & CSS
 
 Mit **HTML** kann die **Struktur** einer Website vorgegeben werden und mit **CSS** kann man anschließend die **Darstellung** der Website anpassen.
-Damit Websiten auf allen Geräten schön zu betrachten sind haben wir die CSS-Bibliothek **Bootstrap** kennengelernt.
+Damit Websiten auf verschiedenen Geräten schön zu betrachten sind, wird mit der CSS-Bibliothek **Bootstrap** gearbeitet.
 
 ![HTML CSS Example](img/html_css.png)
 ![HTML CSS Example 2](img/html_css1.png)
@@ -39,15 +43,15 @@ Damit Websiten auf allen Geräten schön zu betrachten sind haben wir die CSS-Bi
 
 ## Javascript
 
-**Javascript** ist eine **Programmiersprache** welche meist dazu verwendet wird um **Funktionalität/Logik** zu einer Website hinzuzufügen. 
+**Javascript** ist eine **Programmiersprache** welche dazu verwendet wird **Funktionalität/Logik** zu einer Website hinzuzufügen. 
 
 ![Javascript Logo](img/JavaScript_Logo.png)
 
 ---
 
 ## Javascript - Frameworks
-Frameworks sind zuvor programmierte Programme, welche man verwenden kann um seine eigenen Applikationen darauf aufzubauen. \
-Beispiele, welche behandelt werden:
+Frameworks sind bereits programmierte Bausteine, welche man verwendet um eigene Anwendungen damit zu erstellen. \
+Beispiele, welche im Unterricht behandelt werden:
 * Angular
 * jQuery
 
@@ -56,7 +60,7 @@ Beispiele, welche behandelt werden:
 ## PHP
 
 **PHP** ist eine **Programmiersprache** die sowohl im **Front-** als auch im **Backend** Anwendung findet. \
-Beispielsweise werden anwendungsspezifische **Programmierschnittstellen** in Verbindung mit **Datenbanken** entworfen und ausprogrammiert.
+Unteranderem werden **Schnittstellen** in Verbindung mit **Datenbanken** entworfen und programmiert.
 
 ![PHP Logo](img/php-logo.png)
 
@@ -72,17 +76,15 @@ Beispielsweise werden anwendungsspezifische **Programmierschnittstellen** in Ver
 
 ## Fotografie
 
-Fotos mit einer 4k Kamera, die danach mit den Tools der Adobe Creative Cloud nachbearbeitet werden.
+Es werden Fotos mit einer **4k Kamera** aufgenommen und anschließend mit **Photoshop** und **Lightroom** nachbearbeitet.
 
 ---
 
-## Photoshop
+## Audio
 
-Bildbearbeitung der selbstgemachten Fotos.
-Kennenlernen der wichtigsten Funktionalitäten von Photoshop.
+---
+
+## Video
 
 --
-
-## Fragen
-
-Melden Sie sich bei Rathgeber!
+CMS SCHAS
