@@ -1,0 +1,25 @@
+img[alt="HTML CSS Example"] {
+    width: 75%;
+}
+
+img[alt="HTML CSS Example 2"] {
+    width: 700px;
+}
+
+img[alt="Javascript Logo"] {
+    width: 25%;
+    margin-left: 35%;
+}
+
+img[alt="PHP Logo"] {
+    width: 25%;
+    margin-left: 35%;
+}
+
+img[alt="Wordpress Logo"] {
+    width: 10%;
+}
+
+img[alt="Joomla Logo"] {
+    width: 11%;
+}

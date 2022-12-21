@@ -2,9 +2,13 @@
 <html lang="en">
 	<head>
 		<meta charset="utf-8">
-		<title>tidy-revealjs demo</title>
-			<meta name="description" content="A custom theme and build system for reveal.js">
-		<meta name="author" content="Julie Ng">
+		<title>{{ title }}</title>
+		{{#if description}}
+			<meta name="description" content="{{ description }}">
+		{{/if}}
+		{{#if author}}
+		<meta name="author" content="{{ author }}">
+		{{/if}}
 		<meta name="apple-mobile-web-app-capable" content="yes">
 		<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
 		<meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -17,7 +21,6 @@
 
 		<!-- Tidy Styles -->
 		<link rel="stylesheet" href="assets/css/styles.css">
-		<link rel="stylesheet" href="assets/css/custom.css">
 
 		<!-- Printing and PDF exports -->
 		<script>
@@ -36,27 +39,7 @@
 
 		<div class="reveal">
 			<div class="slides">
-						<section class="section-title">
-							<h1>Medientechnik - MEDT</h1>
-						</section>		<section data-markdown="slides/1.md" data-separator-notes="^Note:"></section>		<section data-markdown="slides/2.md" data-separator-notes="^Note:"></section>		<section data-markdown="slides/3.md" data-separator-notes="^Note:"></section>		<section>
-									<section>
-										<h1>Webentwicklung</h1>
-										<ul>
-											<li>HTML, CSS</li>
-											<li>Javascript / Typescript</li>
-											<li>PHP</li>
-											<li>REST APIs</li>
-										</ul>
-									</section>		<section data-markdown="slides/4/1.md" data-separator-notes="^Note:"></section>		<section data-markdown="slides/4/2.md" data-separator-notes="^Note:"></section>		<section data-markdown="slides/4/3.md" data-separator-notes="^Note:"></section>		<section data-markdown="slides/4/4.md" data-separator-notes="^Note:"></section>		<section data-markdown="slides/4/5.md" data-separator-notes="^Note:"></section>		</section>
-						<section>
-									<section>
-										<h1>Bild- / Videobearbeitung</h1>
-										<ul>
-											<li>Fotografie</li>
-											<li>Farbenlehre</li>
-											<li>Adobe Creative Cloud</li>
-										</ul>
-									</section>		<section data-markdown="slides/5/1.md" data-separator-notes="^Note:"></section>		<section data-markdown="slides/5/2.md" data-separator-notes="^Note:"></section>		<section data-markdown="slides/5/3.md" data-separator-notes="^Note:"></section>		</section>
+				{{> slides }}
 			</div>
 		</div>
 
