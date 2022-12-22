@@ -26,10 +26,12 @@ img[alt="Joomla Logo"] {
 
 img[alt="Photoshop Logo"] {
     width: 25%;
+    margin-left: 15%;
 }
 
 img[alt="Lightroom Logo"] {
     width: 25%;
+    margin-left: 15%;
 }
 
 img[alt="Angular Logo"] {
